@@ -74,3 +74,5 @@ Agrega estos badges a tu README principal:
 ![QA Pipeline](https://github.com/usuario/repo/actions/workflows/qa-pipeline.yml/badge.svg)
 ![Nightly Tests](https://github.com/usuario/repo/actions/workflows/nightly-tests.yml/badge.svg)
 ```
+
+<!-- lastupdate: 2026-08-18 21:18 -->
